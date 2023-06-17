@@ -15,6 +15,7 @@ export default function CatAdopter() {
         window.location.href =
           "https://www.behance.net/gallery/163480611/Case-Study-CatAdopter(A-Responsive-Website)/modules/922077501";
       }}
+      unoptimized
     />
   );
 }
