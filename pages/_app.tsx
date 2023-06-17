@@ -73,7 +73,7 @@ export default function App({ Component, pageProps }: AppProps) {
 
         <Nav>
           <Logo background height={logoHeight} width={logoWidth} />
-          <Menu />
+          {/* <Menu /> */}
         </Nav>
 
         <main>

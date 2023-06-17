@@ -10,6 +10,10 @@ export default function CatAdopter() {
       height={0}
       sizes="100vw"
       style={{ width: "100%", height: "auto" }}
+      onClick={() => {
+        window.location.href =
+          "https://www.behance.net/gallery/163480611/Case-Study-CatAdopter(A-Responsive-Website)/modules/922077501";
+      }}
     />
   );
 }
