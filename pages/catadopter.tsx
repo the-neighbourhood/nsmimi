@@ -6,8 +6,8 @@ export default function CatAdopter() {
     <Image
       src="/pages/catadopter.png"
       alt="cat"
-      width={0}
-      height={0}
+      width={1440}
+      height={44886}
       sizes="100vw"
       style={{ width: "100%", height: "auto" }}
       onClick={() => {

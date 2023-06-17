@@ -6,8 +6,8 @@ export default function YfcApp() {
     <Image
       src="/pages/yfcapp.png"
       alt="yfcapp"
-      width={0}
-      height={0}
+      width={1440}
+      height={36864}
       sizes="100vw"
       style={{ width: "100%", height: "auto" }}
       onClick={() => {

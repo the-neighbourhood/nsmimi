@@ -6,8 +6,8 @@ export default function YfcWeb() {
     <Image
       src="/pages/yfcweb.png"
       alt="yfcweb"
-      width={0}
-      height={0}
+      width={1440}
+      height={47790}
       sizes="100vw"
       style={{ width: "100%", height: "auto" }}
       onClick={() => {
