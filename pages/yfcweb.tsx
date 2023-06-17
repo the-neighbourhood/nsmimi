@@ -12,7 +12,7 @@ export default function YfcWeb() {
       style={{ width: "100%", height: "auto" }}
       onClick={() => {
         window.location.href =
-          "https://www.figma.com/file/g1xEO17nGhTKye51WtdP0p/yfc-app-and-website?type=design&node-id=594%3A16419&t=wSbPQUAYqp7DBuWu-1";
+          "https://www.figma.com/proto/g1xEO17nGhTKye51WtdP0p/yfc-app-and-website?page-id=594%3A16419&type=design&node-id=594-19426&viewport=658%2C1140%2C0.06&scaling=min-zoom&starting-point-node-id=594%3A19426&show-proto-sidebar=1";
       }}
       unoptimized
     />

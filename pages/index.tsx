@@ -255,7 +255,7 @@ export default function Home() {
       <Section swimLaneColor="brown">
         <Content>
           <Project
-            linkTo="https://www.figma.com/file/Bj5q0U5Ex8huInKPwEKogM/ArtistBioApp?type=design&node-id=432%3A5171&t=FqPJywX1iWXOmfgb-1"
+            linkTo="https://www.figma.com/proto/Bj5q0U5Ex8huInKPwEKogM/ArtistBioApp?page-id=432%3A5171&type=design&node-id=432-6211&viewport=808%2C565%2C0.18&scaling=scale-down&starting-point-node-id=432%3A6211"
             title="ArtiestBio App"
             subtitle="For art galleries"
             desc="This is my very first projrct. In this project, I had created a new artist bio app to help people find about artists, events and buying art event tickets so that  they can skip physical labor and the payment process is streamlined."
