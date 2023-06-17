@@ -9,6 +9,7 @@ export default function CatAdopter() {
       width={1440}
       height={44886}
       sizes="100vw"
+      quality={100}
       style={{ width: "100%", height: "auto" }}
       onClick={() => {
         window.location.href =

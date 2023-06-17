@@ -9,6 +9,7 @@ export default function YfcApp() {
       width={1440}
       height={36864}
       sizes="100vw"
+      quality={100}
       style={{ width: "100%", height: "auto" }}
       onClick={() => {
         window.location.href =
