@@ -179,7 +179,7 @@ export default function Home() {
             />
           )}
           <Project
-            linkTo="https://mimijsr098f05.myportfolio.com/youth-for-change"
+            linkTo="https://www.figma.com/file/g1xEO17nGhTKye51WtdP0p/yfc-app-and-website?type=design&node-id=594%3A16419&t=wSbPQUAYqp7DBuWu-1"
             title="Youth For Change"
             subtitle="A Responsive Website for a social organization of Bangladesh"
             desc="Youth for Change Bangladesh is a social organization. The goal of Youth For Change Bangladesh is to ensure women empowerment and gender equity at the fullest sense."
@@ -198,7 +198,7 @@ export default function Home() {
       <Section swimLaneColor="sky">
         <Content>
           <Project
-            linkTo="https://mimijsr098f05.myportfolio.com/youth-for-change"
+            linkTo="https://www.figma.com/file/g1xEO17nGhTKye51WtdP0p/yfc-app-and-website?type=design&node-id=594%3A16419&t=wSbPQUAYqp7DBuWu-1"
             title="Youth For Change Social App"
             subtitle="For learning about Sexual and Reproductive Health and Rights"
             desc="Youth for Change is a Bangladesh-based  social organization focused on youth and it’s rights. The organization needs a tool that helps people learn about Sexual and Reproductive Health and Rights. Youth for Change Bangladesh’s primary target users include, teenagers, college students, and adults who are concerned with the youth right and would like to learn more about what they can do to enrich knowledge."
@@ -236,7 +236,7 @@ export default function Home() {
             />
           )}
           <Project
-            linkTo="https://mimijsr098f05.myportfolio.com/catadopter"
+            linkTo="https://www.behance.net/gallery/163480611/Case-Study-CatAdopter(A-Responsive-Website)/modules/922077501"
             title="Catadopter"
             subtitle="A Responsive Website for cat adoption"
             desc="I have designed a  responsive website for getting cats adopted or adopting one online which save user’s time. It is one of my personal project’s where found the urgency for getting my cats adopted and faced many unknown consequences. These events inspired me to design a user friendly and useful website for adopting cats and getting adopted one."
@@ -255,7 +255,7 @@ export default function Home() {
       <Section swimLaneColor="brown">
         <Content>
           <Project
-            linkTo="https://mimijsr098f05.myportfolio.com/artiestbio-app"
+            linkTo="https://www.figma.com/file/Bj5q0U5Ex8huInKPwEKogM/ArtistBioApp?type=design&node-id=432%3A5171&t=FqPJywX1iWXOmfgb-1"
             title="ArtiestBio App"
             subtitle="For art galleries"
             desc="This is my very first projrct. In this project, I had created a new artist bio app to help people find about artists, events and buying art event tickets so that  they can skip physical labor and the payment process is streamlined."
